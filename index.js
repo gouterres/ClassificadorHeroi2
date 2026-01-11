@@ -20,4 +20,5 @@ function classificarJogador(vitorias, derrotas) {
 
     return `O jogador tem saldo de ${saldo} vitórias e está no nível ${nivel}`;
 }
-print(classificarJogador(75,50))
+
+console.log(classificarJogador(75,50));
